@@ -89,6 +89,7 @@ struct ContentView: View {
                             .font(.system(size:30))
                             .cornerRadius(40)
                             .padding(7)
+                        
                 }
             }
         }
